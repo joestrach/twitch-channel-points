@@ -1,3 +1,5 @@
+![Build and Publish](https://github.com/joestrach/twitch-channel-points/workflows/Build%20and%20Publish/badge.svg?branch=release)
+
 Click those bonus boxes!
 
 Does what it says
